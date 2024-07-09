@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7rgMZ03IB5CNxG-8-ggbMafPANWSD9sBbA&s') no-repeat center center fixed;
+    background: url('https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg') no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     display: flex;
@@ -21,8 +21,7 @@ body {
 
 h1, h2 {
     text-align: center;
-    color: yellow;
-}
+    color: yellow;}
 
 form {
     display: flex;
