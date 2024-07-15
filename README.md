@@ -1,1 +1,2 @@
 # To-Do-List
+In this to-do-list application you can add a task , edit a task  , delete a task along with that some interesting features includes the date and time features for your task deadline its also gives alert messsage when your task is about in 3 days and in 24 hours it also include complete button wherein you can click on complete and your task move towards completed task and if you dont complete the task before deadline then your task will move towards failed task. 
